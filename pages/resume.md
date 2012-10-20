@@ -22,7 +22,11 @@ with a motivated team.
 I am a human turned software engineer who toils by day and codes by night.
 I like doing things with C#, C++, Python, Ruby, Javascript, and pretty much
 any other technology I can get my hands on. Sometimes I even make my hands
-dirty with C on microcontrollers. At the moment i stay in Munich.
+dirty with C on microcontrollers.
+
+I love to solve difficult problems with the latest trends and technologies.
+
+Currently I'm living in Munich.
 
 
 # Work Experience
